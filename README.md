@@ -1,6 +1,5 @@
 # Clean reconstruction
 
-这个目录只保留真实实验重建的核心代码，结构参考 `NeuWS_DualMMES_code`：配置在文件顶部，入口按执行顺序从上往下阅读，训练循环直接写在入口中。
 
 ## 文件
 
